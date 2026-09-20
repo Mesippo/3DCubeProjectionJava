@@ -34,9 +34,17 @@ A Java program for 3D cube rendering using both orthographic and perspective pro
 
 ## Preview
 
-> Screenshots and demonstrations will be added as development continues.
+> Screenshots will be added as development continues.
 
-![3D Cube Preview](previews/preview1.png)
+<table>
+  <tr>
+    <td><img src="previews/preview1.png" width="200"></td>
+    <td><img src="previews/preview2.png" width="200"></td>
+    <td><img src="previews/preview3.png" width="200"></td>
+    <td><img src="previews/preview4.png" width="200"></td>
+    <td><img src="previews/preview5.png" width="200"></td>
+  </tr>
+</table>
 
 ---
 
