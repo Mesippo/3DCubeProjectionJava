@@ -2,9 +2,10 @@
 
 [![Java](https://img.shields.io/badge/Java-17%2B-orange?style=plastic&logo=openjdk)](https://www.java.com/)
 [![Status](https://img.shields.io/badge/Status-Work%20in%20Progress-yellow?style=plastic)](#)
-[![macOS](https://img.shields.io/badge/macOS-supported-0078D4?style=plastic&logo=apple&logoColor=white)](#)
-[![Windows](https://img.shields.io/badge/Windows-supported-0078D4?style=plastic&logo=windows&logoColor=white)](#)
-[![Linux](https://img.shields.io/badge/Linux-supported-0078D4?style=plastic&logo=linux&logoColor=white)](#)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=plastic)](https://github.com/Mesippo/3DCubeProjectionJava/blob/main/LICENSE)
+[![macOS](https://img.shields.io/badge/macOS-supported-green?style=plastic&logo=apple&logoColor=white)](#)
+[![Windows](https://img.shields.io/badge/Windows-supported-green?style=plastic&logo=windows&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-supported-green?style=plastic&logo=linux&logoColor=white)](#)
 
 
 > A Java-based 3D rendering project focused on understanding the mathematics and implementation behind 3D projections.
