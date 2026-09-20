@@ -62,7 +62,7 @@ You can download the latest version of the project from the **Releases** section
 
 To download the source code directly:
 
-[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-0078D4?style=plastic&logo=github&logoColor=white)](https://github.com/Mesippo/3D-Cube-Projection-Java/tree/main)
+[![Source Code](https://img.shields.io/badge/Latest%20Source%20Code-GitHub-0078D4?style=plastic&logo=github&logoColor=white)](https://github.com/Mesippo/3DCubeProjectionJava/tree/main/Version%200.1)
 
 ---
 
